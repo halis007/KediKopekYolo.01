@@ -1,0 +1,7 @@
+path: /content/drive/MyDrive/Bitirme/DataSet
+train: train/images
+val: val/images
+
+names:
+  0: kedi
+  1: kopek
